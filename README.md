@@ -1,4 +1,4 @@
-# Nature-Of-Code-with-Unity
+# Nature Of Code with Unity
 
 Projects made with Unity for Nature of Code course by Daniel Shiffman.
 
